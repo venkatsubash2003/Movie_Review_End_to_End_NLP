@@ -28,6 +28,18 @@ This project comes with an interactive Streamlit web application, where users ca
 
 ## 📂 Project Structure
 
+```
+📂 Movie_Review_End_to_End_NLP/
+├── 📁 Models/
+│   ├── model.h5         
+├── 📂 Notebooks/
+│   └── experiments.ipynb
+│   └── embeddings.ipynb
+├── app.py                   # Streamlit app source code
+├── README.md                # Project documentation
+└── requirements.txt         # Required Python libraries
+```
+
 
 
 ## 💽 Dataset
